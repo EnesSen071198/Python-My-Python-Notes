@@ -1,4 +1,3 @@
-# Python Temelleri
 
 ## Yorum Satırları
 - Tek satırlık yorumlar (`#`)
