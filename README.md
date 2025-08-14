@@ -1,108 +1,179 @@
+Comments
 
-## Yorum Satırları
-- Tek satırlık yorumlar (`#`)
-- Çok satırlı yorumlar (`''' ... '''`)
+Single-line comments (#)
 
-## Veri Tipleri
-- String (Metin)
-- Integer (Tam Sayı)
-- Float (Ondalıklı Sayı)
-- Boolean (Mantıksal)
-- `type()` Fonksiyonu ile Veri Tipini Öğrenme
+Multi-line comments (''' ... ''')
 
-## Tip Dönüşümleri
-- String → Integer
-- Integer → String
+Data Types
 
-## Matematiksel Operatörler
-- Toplama (+)
-- Çıkarma (-)
-- Çarpma (*)
-- Bölme (/)
-- Tam Sayı Bölmesi (//)
-- Mod Alma (%)
-- Üs Alma (**)
+String (Text)
 
-## Karşılaştırma Operatörleri
-- `==` (Eşit)
-- `!=` (Eşit Değil)
-- `>` (Büyüktür)
-- `<` (Küçüktür)
-- `>=` (Büyük Eşittir)
-- `<=` (Küçük Eşittir)
+Integer (Whole Number)
 
-## Mantıksal Operatörler
-- `and` (VE)
-- `or` (VEYA)
-- `not` (DEĞİL)
+Float (Decimal Number)
 
-## Koşullu İfadeler
-- `if`
-- `if-else`
-- `if-elif-else`
-- İç içe if
+Boolean (Logical Value)
 
-## Döngüler
-- `for` Döngüsü (Liste ile)
-- `for` Döngüsü (`range()` ile)
-- `while` Döngüsü
-- `break` Kullanımı
-- `continue` Kullanımı
+Using type() to Check Data Type
 
-## Listeler (Lists)
-- Liste Tanımlama
-- Listeye Erişim
-- Liste Metodları (`append`, `insert`, `remove`, `pop`)
-- Liste Uzunluğu (`len`)
+Type Conversions
 
-## Demetler (Tuples)
-- Demet Tanımlama
-- Demete Erişim
-- Demet Metodları (`count`, `index`)
+String → Integer
 
-## Sözlükler (Dictionaries)
-- Sözlük Tanımlama
-- Sözlüğe Erişim
-- Sözlük Metodları (`keys`, `values`)
-- Yeni Değer Ekleme/Güncelleme
-- `get()` Metodu
-- Sözlükten Değer Silme
+Integer → String
 
-## Fonksiyonlar
-- Basit Fonksiyon
-- Parametreli Fonksiyon
-- Varsayılan Parametreli Fonksiyon
-- Değer Döndüren Fonksiyon
-- Birden Fazla Değer Döndüren Fonksiyon
+Mathematical Operators
 
-## Hata Yakalama (Try-Except)
-- Basit `try-except`
-- Birden Fazla Hata Türü
-- Özel Hata Sınıfı Oluşturma
-- `assert` Kullanımı
+Addition (+)
 
-## Dosya İşlemleri
-- Yazma (write - `w`)
-- Ekleme (append - `a`)
-- Okuma (read - `r`)
-- Satır Satır Okuma
+Subtraction (-)
 
-## Modüller
-- `math` Modülü
-- `random` Modülü
-- `datetime` Modülü
+Multiplication (*)
 
-## Nesne Yönelimli Programlama (OOP)
-- Sınıf Tanımlama
-- Yapıcı Metod (`__init__`)
-- Instance ve Class Metodları
-- Kalıtım (Inheritance)
+Division (/)
 
-## Dekoratörler
-- Fonksiyon Dekoratörü
-- Dekoratör Kullanımı
+Integer Division (//)
 
-## List Comprehension
-- Normal Liste Oluşturma
-- List Comprehension ile
-- Koşullu List Comprehension
+Modulus (%)
+
+Exponentiation (**)
+
+Comparison Operators
+
+== (Equal)
+
+!= (Not Equal)
+
+> (Greater Than)
+
+< (Less Than)
+
+>= (Greater Than or Equal To)
+
+<= (Less Than or Equal To)
+
+Logical Operators
+
+and (AND)
+
+or (OR)
+
+not (NOT)
+
+Conditional Statements
+
+if
+
+if-else
+
+if-elif-else
+
+Nested if
+
+Loops
+
+for Loop (with List)
+
+for Loop (with range())
+
+while Loop
+
+Using break
+
+Using continue
+
+Lists
+
+Defining a List
+
+Accessing List Elements
+
+List Methods (append, insert, remove, pop)
+
+Getting List Length (len)
+
+Tuples
+
+Defining a Tuple
+
+Accessing Tuple Elements
+
+Tuple Methods (count, index)
+
+Dictionaries
+
+Defining a Dictionary
+
+Accessing Dictionary Elements
+
+Dictionary Methods (keys, values)
+
+Adding/Updating a Value
+
+Using get() Method
+
+Deleting a Key-Value Pair
+
+Functions
+
+Simple Function
+
+Function with Parameters
+
+Function with Default Parameters
+
+Function that Returns a Value
+
+Function Returning Multiple Values
+
+Exception Handling (Try-Except)
+
+Basic try-except
+
+Handling Multiple Exception Types
+
+Creating a Custom Exception Class
+
+Using assert
+
+File Operations
+
+Writing (write - w)
+
+Appending (append - a)
+
+Reading (read - r)
+
+Reading Line by Line
+
+Modules
+
+math Module
+
+random Module
+
+datetime Module
+
+Object-Oriented Programming (OOP)
+
+Defining a Class
+
+Constructor Method (__init__)
+
+Instance and Class Methods
+
+Inheritance
+
+Decorators
+
+Function Decorator
+
+Using a Decorator
+
+List Comprehension
+
+Creating a List Normally
+
+Creating a List with List Comprehension
+
+Conditional List Comprehension
